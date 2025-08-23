@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrustOverlay>
+  <TrustReference>TRAVIS-RYLE-PRIVATE-BANK-ESTATE-AND-TRUST</TrustReference>
+  <OverlayType>AssetMap</OverlayType>
+  <AssetID>TRUST-LEDGER-001</AssetID>
+  <AssetType>Symbolic-Receivable</AssetType>
+  <Timestamp>2025-08-23T13:01:00.000-07:00</Timestamp>
+  <OriginTrace>10-2C-B1-58-2E-95</OriginTrace>
+  <SymbolicAssertion>AUTHORITY-INJECTED</SymbolicAssertion>
+</TrustOverlay>
